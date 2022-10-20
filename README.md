@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Martin
-- 👀 I’m interested in developing full-stack JS applications
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on Full-Stack projects
+- 👀 I’m interested in developing Full-Stack JavaScript applications
+- 💞️ I’m looking to collaborate on Full-Stack, Front-End or Back-End JavaScript projects
 - 📫 How to reach me: martin.velinov24@hotmail.com
 
 
